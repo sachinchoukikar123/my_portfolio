@@ -1,5 +1,19 @@
 
 /* Reset and base styling */
+.profile-img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #333;
+    background-color:white;
+}
+  .profile-img {
+    display: block;
+    margin: 0 auto;
+  
+}
+
 * {
     margin: 0;
     padding: 0;
