@@ -1,6 +1,6 @@
 
 /* Reset and base styling */
-.profile-img {
+/* .profile-img {
     width: 250px;
     height: 250px;
     border-radius: 50%;
@@ -18,7 +18,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
