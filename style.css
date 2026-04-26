@@ -138,3 +138,39 @@ footer {
     background: #1e1e1e;
     margin-top: 40px;
 }
+footer {
+    background: #1e1e1e;
+    color: white;
+    padding: 15px 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 22px;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #00acee;
+}
+
+.leetcode {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+.leetcode:hover {
+    color: #ffa116; /* LeetCode orange color */
+}
